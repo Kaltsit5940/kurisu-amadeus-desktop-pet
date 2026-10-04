@@ -1,0 +1,57 @@
+{
+  "size": [
+    815,
+    842
+  ],
+  "anchor_y": 769,
+  "anchor_x": 83,
+  "base_fps": 24,
+  "states": [
+    "idle",
+    "blink",
+    "surprise",
+    "embarrassed",
+    "thinking",
+    "joy",
+    "annoyed",
+    "talking",
+    "teasing",
+    "blink_half",
+    "mouth_closed",
+    "mouth_teeth",
+    "mouth_open",
+    "mouth_wide",
+    "mouth_round",
+    "talk_pause_blink_half",
+    "talk_pause_blink",
+    "cheek_20",
+    "cheek_35",
+    "cheek_50",
+    "cheek_65",
+    "cheek_80",
+    "cheek_90",
+    "cheek_100",
+    "cheek_tap"
+  ],
+  "illustrated_keyframes": 20,
+  "source_size": [
+    1536,
+    1024
+  ],
+  "mask_bbox": [
+    567,
+    144,
+    1382,
+    986
+  ],
+  "cheek_action": [
+    "cheek_20",
+    "cheek_35",
+    "cheek_50",
+    "cheek_65",
+    "cheek_80",
+    "cheek_90",
+    "cheek_100",
+    "cheek_tap"
+  ]
+}
